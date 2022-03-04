@@ -1,0 +1,2 @@
+# MEMS-Inverse-Design
+This project is a demonstration of Inverse Design for MEMS structure. It starts with a duplication of the Genetic Algorithm code provided by Rui Amendoeira Esteves in the Masters thesis advised by Michael Kraft, Full Professor, KU Leuven. Subsequently, we aim to utilize a similar algorithm on an optical scanner. Furthermore, a third goal is attempt a topology optimization algorithm for the inverse design of MEMS.
